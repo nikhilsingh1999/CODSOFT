@@ -14,7 +14,7 @@ This repository contains the completed Level 1 Tasks for the Codsoft Ineship pro
 ## Tasks Completed
 
 - Personal Portfolio
-- Foody Landing Page
+- Express VPN Landing Page
 - Calculator App
 
 ## Technologies Used
