@@ -84,15 +84,16 @@ body{
     display: flex;
 }
 
-.fa{
+.faa{
     height: 100%;
     width: 60%;
     display: flex;
     align-items: center;
     justify-content: flex-end;
+    font: sans-serif;
 }
 
-.fa .fa1{
+.faa .fa1{
     width: 85%;
     height: 40%;
     display: flex;
@@ -100,17 +101,17 @@ body{
     justify-content: space-between;
 }
 
-.fa .fa1 h1{
+.faa .fa1 h1{
     font-size: 65px;
 }
 
-.fa .fa1 p{
+.faa .fa1 p{
     font-size: 21px;
     letter-spacing: 1px;
     line-height: 30px; 
 }
 
-.fa .fa1 button{
+.faa .fa1 button{
     height: 60px;
     width: 245px;
     border-style:hidden ;
@@ -414,7 +415,52 @@ cursor: pointer;
     height: 15vh;
     width: 100%;
     background-color: rgb(3, 3, 46) ;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
 }
+
+.footer_next .inner_footer{
+    width: 87%;
+    height: 100%;
+    background-color:;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+ 
+    ul{
+        display: flex;
+        list-style: none;
+        gap: 35px;
+        color: whitesmoke;
+    li{
+        cursor: pointer;
+
+    }
+
+    li:hover{
+        text-decoration: underline;
+        color: cornflowerblue;
+    }
+    }
+    ul:nth-child(0)
+    {
+        color: brown;
+    }
+}
+
+.footer_next .inner_footer ul li .icon{
+    color: aliceblue;
+    font-size: 25px;
+}
+
+.footer_next .inner_footer ul li .icon:hover{
+    color: cornflowerblue;
+}
+ 
+
+
 
 .footer ul li{
     list-style: none;
