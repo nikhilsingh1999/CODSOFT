@@ -38,7 +38,7 @@ The Personal Portfolio task involved creating a portfolio website to showcase pe
 - Skills section
 - Contact form
 
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=)](https://katherineoelsner.com/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=)](https://nikhilportfolio7898.netlify.app/)
 
 ## Express VPN Landing Page
 ExpressVPM Landing Page task required designing a landing page for a VPN service. The landing page features enticing visuals,Vpn usage , and a call-to-action section.. It includes a responsive design and sections for about, projects, skills, and contact information.
@@ -53,7 +53,7 @@ ExpressVPM Landing Page task required designing a landing page for a VPN service
 - Usages
 - more features
 
-[![VPN](https://img.shields.io/badge/EXPRESS_VPN-000?style=for-the-badge&logo=ko-fi&logo)](https://katherineoelsner.com/)
+[![VPN](https://img.shields.io/badge/EXPRESS_VPN-000?style=for-the-badge&logo=ko-fi&logo)](https://landingpage-vpn.netlify.app)
 
 
 ## Calculator
