@@ -17,6 +17,14 @@ This repository contains the completed Level 1 Tasks for the Codsoft Ineship pro
 - Foody Landing Page
 - Calculator App
 
+## Technologies Used
+
+- HTML
+- CSS/SCSS
+- JAVASCRIPT
+- BOOTSTRAP
+- JQUERY
+ 
 
 ## Personal Portfolio
 The Personal Portfolio task involved creating a portfolio website to showcase personal projects, skills, and experience. It includes a responsive design and sections for about, projects, skills, and contact information.
