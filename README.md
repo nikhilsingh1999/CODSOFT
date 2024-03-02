@@ -28,7 +28,7 @@ This repository contains the completed Level 1 Tasks for the Codsoft Ineship pro
 
 ## Personal Portfolio
 The Personal Portfolio task involved creating a portfolio website to showcase personal projects, skills, and experience. It includes a responsive design and sections for about, projects, skills, and contact information.
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![APP screenshot](https://github.com/nikhilsingh1999/CODSOFT/assets/153318093/b357f052-3ed7-4617-bc9d-dc03385b0327)
 
 
 ## Features
