@@ -23,7 +23,6 @@ body{
 .sec1 nav {
     height: 10vh;
     width: 100%;
-    background-color: ;
     display: flex;
     align-items: center;
     justify-content: space-around;
@@ -424,7 +423,6 @@ cursor: pointer;
 .footer_next .inner_footer{
     width: 87%;
     height: 100%;
-    background-color:;
     display: flex;
     justify-content: space-between;
     align-items: center;
