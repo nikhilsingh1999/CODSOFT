@@ -1,0 +1,441 @@
+*{
+    padding: 0;
+    margin: 0;
+
+}
+
+:root{
+    --bg-color:  rgb(198, 184, 167);
+}
+
+body{
+    box-sizing: border-box;
+
+}
+
+.sec1 
+{
+    height: 100vh;
+    width: 100%;
+    background-color: var(--bg-color);
+}
+
+.sec1 nav {
+    height: 10vh;
+    width: 100%;
+    background-color: ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+
+.sec1 nav .logo{
+    height: 60%;
+    width: 20% ;
+}
+
+.sec1 nav .logo img{
+    height: 100%;
+    width: 100%;
+}
+
+.sec1 nav ul{
+  width: 40%;
+  display: flex;
+  justify-content: space-evenly;
+  gap: 20px;
+}
+
+
+.sec1 nav ul li{
+    list-style: none;
+    font-size: 20px;
+    font-weight: 800;
+    text-transform: capitalize; 
+}
+
+.sec1 nav ul li a{
+    text-decoration:none ;
+    color: black;
+}
+
+.sec1 nav ul li a:hover{
+    text-decoration:none ;
+    color: rgb(242, 104, 5);
+}
+
+.sec1 nav ul .b1{
+    height: 25px;
+    width: 100px;
+    padding: 5px;
+    color: red;
+    font-weight: bold;
+    text-transform: capitalize;
+    background: transparent;
+    border: 1px solid red;
+    border-radius: 15px;
+    cursor: pointer;
+}
+
+.f{
+    height: 90vh;
+    width: 100%;
+    display: flex;
+}
+
+.fa{
+    height: 100%;
+    width: 60%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+}
+
+.fa .fa1{
+    width: 85%;
+    height: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+}
+
+.fa .fa1 h1{
+    font-size: 65px;
+}
+
+.fa .fa1 p{
+    font-size: 21px;
+    letter-spacing: 1px;
+    line-height: 30px; 
+}
+
+.fa .fa1 button{
+    height: 60px;
+    width: 245px;
+    border-style:hidden ;
+    border-radius: 45px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.fb{
+    
+    height: 100%;
+    width: 40%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.fb img{
+    height: 70%;
+    width: 60%;
+}
+
+.sec2{
+    height: 140vh;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.sec2 .section_2_image{
+    height: 80vh;
+    width: 29%;
+}
+
+.sec2  .section_2_image img{
+    height: 100%;
+    width: 100%;
+    
+
+}
+
+.sec2 p{
+    font-size: 16px;
+    letter-spacing: 1px;
+    line-height: 30px; 
+}
+
+.sec2 button{
+    height: 60px;
+    width: 245px;
+    border-style:hidden ;
+    border-radius: 45px;
+    background-color: green;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+/* section 3 start from here    */
+
+.sec3{
+    height: 70vh;
+    width: 100%;
+    background-color: var(--bg-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.sec3 h1{
+    width: 100%;
+    text-align: center;
+    font-size: 45px;
+    letter-spacing: 1px;
+}
+
+.sec3 .info1{
+    height: 70vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec3 .pic1{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec3 .pic1 img{
+    height: 90%;
+    width: 60%;
+}
+
+.sec3 .info1 .para{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.sec3 .info1 .para h1 {
+    width: 100%;
+    text-align:start;
+
+}
+
+.sec3 .info1 .para p{
+   letter-spacing: 1px;
+   line-height: 30px;     
+}
+
+.sec3 .info1 .para p span{
+    text-decoration: underline;
+    color:blue;     
+ }
+
+
+
+/* section 4 start from here ...  */
+
+
+.sec4{
+    height: 70vh;
+    width: 100%;
+    background-color: var(--bg-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+
+
+.sec4 .info2{
+    height: 70vh;
+    width: 80%;
+    display: flex;
+    justify-content: end;
+}
+
+.sec4 .pic2{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec4 .pic2 img{
+    height: 70%;
+    width: 60%;
+}
+
+.sec4 .info2 .para1{
+    height: 100%;
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items:end;
+}
+
+.sec4 .info2 .para1 h1 {
+    width: 90%;
+    text-align:start;
+    font-size: 45px;
+
+}
+
+.sec4 .info2 .para1 p{
+   letter-spacing: 1px;
+   line-height: 30px; 
+
+}
+
+.sec4 .info2 .para1 p span{
+    text-decoration: underline;
+    color: blue;
+ 
+ }
+
+
+ /*  section 5 start from here   */
+
+ 
+.sec5{
+    height: 80vh;
+    width: 100%;
+    background-color: var(--bg-color);
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* justify-content: center; */
+}
+
+.sec5 .info5{
+    height: 70vh;
+    width: 80%;
+    display: flex;
+    justify-content: space-around;
+}
+
+.sec5 .pic5{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sec5 .pic5 img{
+    height: 75%;
+    width: 90%;
+}
+
+.sec5 .info5 .para5{
+    height: 100%;
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    /* align-items: center; */
+}
+
+.sec5 .info5 .para5 h1 {
+    width: 100%;
+    text-align:start;
+    font-size: 45px;
+
+}
+
+.sec5 .info5 .para5 p{
+   letter-spacing: 1px;
+   line-height: 30px;     
+}
+
+.sec5 .info5 .para5 p span{
+    text-decoration: underline;
+    color:blue;     
+ }
+
+
+ .sec4 button{
+background-color: green;
+height: 60px;
+width: 245px;
+font-size: 16px;
+font-weight: 700;
+border: hidden;
+border-radius: 30px;
+color: white;
+cursor: pointer;
+}
+
+ .sec4 button:hover{
+background-color: black;
+height: 63px;
+width: 248px;
+font-size: 17px;
+color: white;
+cursor: pointer;
+ 
+}
+
+
+/* footer section start here  */
+
+
+.footer{
+    height: 85vh;
+    width: 100%;
+    background-color: rgb(4, 4, 61) ;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+    h3{
+        color: white;
+        line-height: 35px;
+        font-size: 22px;
+        cursor: pointer;
+    }
+    h3:hover{
+        color: cornflowerblue;
+        text-decoration: underline;
+    }
+    
+}
+
+.footer_next{
+    height: 15vh;
+    width: 100%;
+    background-color: rgb(3, 3, 46) ;
+}
+
+.footer ul li{
+    list-style: none;
+    color: white;
+    line-height: 35px;
+    letter-spacing: 1px;
+    cursor: pointer;
+ 
+}
+
+.footer ul li:hover{
+  color: cornflowerblue;
+  text-decoration: underline;
+ 
+}
+
+.footer .l1,.l2,.l3,.l4{
+    display: flex;
+    flex-direction: column;
+    align-items: start;
+    justify-content: flex-start;
+}
+
+
