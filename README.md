@@ -43,7 +43,7 @@ The Personal Portfolio task involved creating a portfolio website to showcase pe
 ## Express VPN Landing Page
 ExpressVPM Landing Page task required designing a landing page for a VPN service. The landing page features enticing visuals,Vpn usage , and a call-to-action section.. It includes a responsive design and sections for about, projects, skills, and contact information.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/nikhilsingh1999/CODSOFT/assets/153318093/d2a2246e-34b4-4195-81cc-a4e17c5abbf3)
 
 
 ## Features
@@ -59,7 +59,7 @@ ExpressVPM Landing Page task required designing a landing page for a VPN service
 ## Calculator
 The Calculator App task involved developing a simple calculator application with basic arithmetic operations. It supports addition, subtraction, multiplication, and division.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](https://github.com/nikhilsingh1999/CODSOFT/assets/153318093/568e8dc5-4d9b-4879-93c6-3c090575b411)
 
 
 ## Features
